@@ -78,8 +78,8 @@ nudge me to do the right thing, even if it is difficult.
 1. We want each other, and the org, to succeed.
 2. Assume good intent.
 3. When I ask for help, ask me probing questions like:
-  * "What have you tried so far?"
-  * "What is your understanding of the problem at hand?"
+    * "What have you tried so far?"
+    * "What is your understanding of the problem at hand?"
 
 * What do you need from your peers? (outside the team)
 
