@@ -9,6 +9,13 @@ As a developer, I want to:
 * **Help others grow**: Software, more often than not, is built by teams of people.  I want the people I work with to level up in their skill set so that they feel successful at their craft.
 * **Provide value for the org**: I want to help the org push the needle and contribute to exceeding the customer's expectations.
 
+## Tips and tricks on working with me
+
+* Imagine a ":)" exists after all of my written communication.
+* When I give my opinion on how something should work, I want you to
+  give me feedback if you disagree with me.  It is likely I
+misunderstand something.
+
 ## My answers for [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/)
 
 * What makes you grumpy?
