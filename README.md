@@ -63,11 +63,6 @@ tell me where I stand can be quite helpful.
 2. Goal setting: Setting goals that are useful to the team, useful to
    the org, and interesting to me can energize me.
 
-#### What are your goals for this year? And for the next 3 months?
-
-Getting spun up on Elixir.
-Getting comfortable on the Pro Backend team.
-
 #### What do you need from your manager?
 
 An advocate who will give me encouragement, constructive criticism and
@@ -84,8 +79,3 @@ nudge me to do the right thing, even if it is difficult.
 #### What do you need from your peers? (outside the team)
 
 Assume good intent.
-
-#### What’s your favourite baked good?
-
-If a dessert-type thing, brownies.
-If a savory-type thing, croissants.
