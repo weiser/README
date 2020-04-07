@@ -15,7 +15,7 @@ As a developer, I want to:
 * When I give my opinion on how something should work, I want you to
   give me feedback if you disagree with me.  It is likely I
 misunderstand something.
-* If I'm confused about something, I'll ask questions bluntly.
+* If I'm confused about something, I'll ask questions bluntly.  My intention is to understand.  But, if I rub you the wrong way let's have a private chat about that because I want to work well with you and if there are concrete things I can do to be a better teammate, I'm all ears!
 
 ## My answers for [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/)
 
