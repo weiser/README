@@ -15,6 +15,7 @@ As a developer, I want to:
 * When I give my opinion on how something should work, I want you to
   give me feedback if you disagree with me.  It is likely I
 misunderstand something.
+* If I'm confused about something, I'll ask questions bluntly.
 
 ## My answers for [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/)
 
