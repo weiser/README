@@ -1,6 +1,6 @@
 # Working with Weiser
 
-A Handy Handbook on working with me
+A handbook on working with me
 
 ## What are my career goals?
 
