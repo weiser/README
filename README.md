@@ -56,6 +56,15 @@ know sooner, rather than later.
 
 Public
 
+### What kinds of recognition are important to you? (Inspired by [Julia Evan's](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) post)
+
+If you can answer "yes" to any of the questions below, then I'd like recognition about it:
+
+- Have I helped advocate for team processes that made our lives easier (e.g. "let's create runbooks so I don't have to think at 3am when I get paged.")?  
+- Have I helped the team get definition around ambiguous goals (e.g. "This product requirement is vague, let's propose a use case to bring more clarity")?
+- Have I helped create a team atmosphere where you feel supported and successful?
+- Have my deliverables been on time, well thought out, ensuring that all stakeholders are satisfied (e.g. "Here's a service I delivered with great documentation, it addresses stakeholder concerns, addresses concerns around introspection and scaling.")?
+
 #### What makes 1:1s the most valuable for you?
 
 1. Knowing where I stand:  I'm my own worst critic.  I usually grade
