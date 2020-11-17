@@ -56,7 +56,7 @@ know sooner, rather than later.
 
 Public
 
-### What kinds of recognition are important to you? (Inspired by [Julia Evan's](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) post)
+### What kinds of recognition are important to you? (Inspired by [Julia Evans'](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) post)
 
 If you can answer "yes" to any of the questions below, then I'd like recognition about it:
 
