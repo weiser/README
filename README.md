@@ -52,6 +52,7 @@ In-person, or if I'm remote, over a Google Hangout.
 As it happens.  If I'm doing something I shouldn't be doing, I want to
 know sooner, rather than later.
 
+When giving me feedback, please also mention things I'm doing well at.  Only hearing criticism can make me feel like I'm never helpful. 
 #### How do you prefer to receive recognition? (public or private)
 
 Public
