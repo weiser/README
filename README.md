@@ -6,7 +6,7 @@ A handbook on working with me
 
 As a developer, I want to:
 * **Grow**: I always want to be learning, and improving, in my craft.
-* **Help others grow**: Software, more often than not, is built by teams of people.  I want the people I work with to level up in their skill set so that they feel successful at their craft.
+* **Help others grow**: Software, more often than not, is built by teams of people.  I want the people I work with to level up in their skill set so that they feel successful at their craft.  I want co-workers who are "different" than me (e.g. race, gender, educational background, etc) to have long and fruitful careers.  I value leveling up early-career folk.
 * **Provide value for the org**: I want to help the org push the needle and contribute to exceeding the customer's expectations.
     * I see myself being most effective in the ambiguities that exist on the Product/Engineering interface.  If there's a product owner that needs to work with an engineer to figure out what can/can't be done, or figure out what the risks of an approach are, that's where I can provide value to the org outside of engineering.
 
